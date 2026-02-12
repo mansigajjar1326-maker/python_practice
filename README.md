@@ -1,4 +1,19 @@
 # python_practice
+# Python Practice – Part 1: Variables & Datatypes
+
+This folder contains **beginner-friendly Python programs** to understand:
+
+## Topics Covered
+- **Variables** – storing data like numbers, text, boolean  
+- **Datatypes** – int, float, string, boolean  
+- **Basic operations** with variables  
+
+All programs are **step-by-step** and easy to follow for beginners.  
+They help build a **strong foundation in Python**.
+
+---
+
+
 # Python Part 2 – Operators
 
 This folder includes simple Python programs to learn:
