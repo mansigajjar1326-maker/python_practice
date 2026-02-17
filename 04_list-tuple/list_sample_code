@@ -1,0 +1,46 @@
+# LIST PRACTICE – FULL CONCEPT
+
+# Creating list
+numbers = [10, 20, 30, 40, 50]
+print("Original List:", numbers)
+
+# Indexing
+print("First element:", numbers[0])
+print("Last element:", numbers[-1])
+
+# Slicing
+print("First three elements:", numbers[0:3])
+
+# Adding elements
+numbers.append(60)
+print("After append:", numbers)
+
+numbers.insert(1, 15)
+print("After insert at index 1:", numbers)
+
+# Extending list
+numbers.extend([70, 80])
+print("After extend:", numbers)
+
+# Removing elements
+numbers.remove(30)
+print("After remove 30:", numbers)
+
+popped = numbers.pop()
+print("Popped element:", popped)
+print("After pop:", numbers)
+
+# Length
+print("Length of list:", len(numbers))
+
+# Sorting
+numbers.sort()
+print("Sorted list:", numbers)
+
+numbers.reverse()
+print("Reversed list:", numbers)
+
+# Loop through list
+print("Looping through list:")
+for num in numbers:
+    print(num)
