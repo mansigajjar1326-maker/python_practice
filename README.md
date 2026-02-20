@@ -46,8 +46,68 @@ This folder has **beginner-friendly Python programs** to learn:
 - Voting eligibility  
 - Password & Username check  
 
-All examples are **step-by-step**, real-life, and easy to follow for beginners.
 
 
+## 📌 Topics Covered
+
+### 1️⃣ List
+- Creating list
+- Indexing & slicing
+- append(), insert(), extend()
+- remove(), pop()
+- sort(), reverse()
+- Looping through list
+- Length of list
+
+Lists are mutable data structures used to store multiple values in a single variable.
+
+---
+
+### 2️⃣ Tuple
+- Creating tuple
+- Indexing & slicing
+- count() and index()
+- Tuple unpacking
+- Looping through tuple
+- Length of tuple
+
+Tuples are immutable data structures used to store fixed data.
+
+---
+
+### 3️⃣ Dictionary
+- Creating dictionary
+- Accessing values using keys
+- get() method
+- Adding & updating key-value pairs
+- pop() method
+- keys(), values(), items()
+- Looping through dictionary
+- Nested dictionary
+
+Dictionaries store data in key-value format.
+
+---
+
+### 4️⃣ Set
+- Creating set
+- Unique values concept
+- add(), remove(), discard()
+- Membership checking
+- Union, Intersection, Difference
+- Converting list to set
+- Looping through set
+
+Sets are unordered collections that automatically remove duplicate values.
+
+---
+
+## 🚀 Goal
+
+To build strong Python fundamentals by practicing each concept step by step and uploading the code regularly on GitHub.
+
+---
+
+✨ More topics coming soon...
 
 **Author:** Mansi Gajjar
